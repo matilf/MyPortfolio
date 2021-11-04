@@ -9,15 +9,29 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <a href="#intro" className="logo">
             Matias LF
           </a>
-          
-        
+
           <div className="itemContainer">
-          
-            <span>DOWNLOAD MY RESUME</span>
+            <a href="/" className="bn">
+              Download my resume
+            </a>
+            <a
+              className="logito"
+              href="https://www.linkedin.com/in/matias-lopez-ferrando/"
+              target="_blank"
+            >
+              <img src="https://icongr.am/devicon/linkedin-plain-wordmark.svg?size=62&color=000000" />
+            </a>{" "}
+            <a
+              className="logito"
+              href="https://github.com/matilf"
+              target="_blank"
+            >
+              <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=62&color=currentColor" />
+            </a>{" "}
           </div>
         </div>
         <div className="right">
-          <div className="hamburger" onClick={()=>setMenuOpen(!menuOpen)}>
+          <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
             <span className="line1"></span>
             <span className="line2"></span>
             <span className="line3"></span>

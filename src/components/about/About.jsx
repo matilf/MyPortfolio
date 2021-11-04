@@ -16,7 +16,7 @@ export default function About() {
                 (Click here to see my EFSET Certificate).{" "}
               </a>
               In my free time I do courses and projects to improve my skills, I
-              am constantly trying to progress and add new skills. You can click
+              am constantly trying to progress and add new abilities. You can click
               here to see my{" "}
               <a href="https://github.com/matilf" target="_blank">
                 {" "}
@@ -29,84 +29,85 @@ export default function About() {
               >
                 LinkedIn
               </a>{" "}
-              or email.
+              or by {" "}
+               <a href="mailto:matiaslopezferrando@gmail.com" target="_blank" >E-mail.</a>
             </p>
-            <h2>List of tecnologies im experienced with</h2>
+            <h2>Tecnologies I have experience with</h2>
 
             <div className="parent">
               <div class="div1 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/babel-original.svg?size=93&color=02254b"alt="" />{" "}
-                <p>Babel</p>
+                <p className="tecnotitle">Babel</p>
               </div>
               <div class="div2 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/bootstrap-plain.svg?size=90&color=02254b" />
-                <p>Bootstrap</p>{" "}
+                <p className="tecnotitle">Bootstrap</p>{" "}
               </div>
               <div class="div3 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/css3-original.svg?size=93&color=02254b" />{" "}
-                <p>CSS</p>
+                <p className="tecnotitle">CSS</p>
               </div>
               <div class="div4 p ">
                 {" "}
                 <img src=" https://icongr.am/devicon/git-original.svg?size=93&color=02254b" />
-                <p>GIT</p>
+                <p className="tecnotitle">GIT</p>
               </div>
               <div class="div5 p ">
                 {" "}
                 <img src=" https://icongr.am/devicon/github-original.svg?size=93&color=02254b" />
-                <p>Git Hub</p>
+                <p className="tecnotitle">Git Hub</p>
               </div>
               <div class="div6 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/heroku-original.svg?size=93&color=02254b" />{" "}
-                <p>Heroku</p>
+                <p className="tecnotitle">Heroku</p>
               </div>
               <div class="div7 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/html5-original.svg?size=93&color=02254b" />
-                <p>HTML</p>{" "}
+                <p className="tecnotitle">HTML</p>{" "}
               </div>
               <div class="div8 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/javascript-original.svg?size=93&color=02254b" />{" "}
-                <p>JS</p>
+                <p className="tecnotitle">JS</p>
               </div>
               <div class="div9 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/jquery-original.svg?size=93&color=02254b" />
-                <p>Jquery</p>
+                <p className="tecnotitle">Jquery</p>
               </div>
               <div class="div10 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/less-plain-wordmark.svg?size=93&color=02254b" />
-                <p>Less</p>{" "}
+                <p className="tecnotitle">Less</p>{" "}
               </div>
               <div class="div11 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/npm-original-wordmark.svg?size=93&color=02254b" />
-                <p>Npm</p>
+                <p className="tecnotitle">Npm</p>
               </div>
               <div class="div12 p">
                 {" "}
                 <img src=" https://icongr.am/devicon/react-original.svg?size=93&color=02254b" />
-                <p>React</p>
+                <p className="tecnotitle">React</p>
               </div>
               <div class="div13 p">
                 {" "}
                 <img src="https://icongr.am/devicon/sass-original.svg?size=93&color=02254b" />
-                <p>Sass</p>
+                <p className="tecnotitle">Sass</p>
               </div>
               <div class="div14 p">
                 <img src="https://icongr.am/devicon/webpack-plain.svg?size=93&color=02254b" />
-                <p>Webpack</p>
+                <p className="tecnotitle">Webpack</p>
               </div>
               <div class="div15 p">
                 {" "}
                 <img src="assets/router.svg" width="150" height="100" />
-                <p>React Router</p>{" "}
+                <p className="tecnotitle">React Router</p>{" "}
               </div>
               <div class="div16 p">
                 {" "}
@@ -116,7 +117,7 @@ export default function About() {
                   width="150"
                   height="100"
                 />
-                <p>Redux</p>{" "}
+                <p className="tecnotitle">Redux</p>{" "}
               </div>
             </div>
 
