@@ -12,8 +12,7 @@ export default function Portfolio() {
           <p>
             {" "}
             A react to do list with local storage made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            <span className="languages">HTML CSS</span> and <span className="languages"> React</span>
           </p>
           <div className="buttons">
             <a href="https://github.com/matilf/ToDoListReactLocalStorage" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
@@ -29,8 +28,7 @@ export default function Portfolio() {
           <p>
             {" "}
             A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            <span className="languages">HTML CSS</span> and <span className="languages"> React</span>
           </p>
           <div className="buttons">
             <a href="https://github.com/matilf/CrudLocalStorage" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
@@ -42,13 +40,15 @@ export default function Portfolio() {
           </div>
 
         </div>
+       
+
         <div class="cardd">
         <h3>Swag Measure</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            This is a swagometer made with{" "}
+            <span className="languages">HTML CSS </span> and <span className="languages"> React</span>
+           
           </p>
           <div className="buttons">
             <a href="/" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
@@ -60,12 +60,28 @@ export default function Portfolio() {
           </div>
         </div>
         <div class="cardd">
+        <h3>React Song Search</h3>
+          <p>
+            {" "}
+            A React Song Search with Local Storage, consuming two API. Made with{" "}
+            <span className="languages">HTML CSS </span> and <span className="languages"> React</span>
+           
+          </p>
+          <div className="buttons">
+            <a href="https://github.com/matilf/ReactSongSearch" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+              View on GitHub
+            </a>
+            <a href="https://react-song-search.vercel.app/#/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+              View Project
+            </a>
+          </div>
+        </div>
+        <div class="cardd">
         <h3>React Shop Cart</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            This is a Shop Cart made with{" "}
+            <span className="languages">HTML CSS </span> and <span className="languages"> React</span>
           </p>
           <div className="buttons">
             <a href="https://github.com/matilf/ReactShopCart" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
@@ -77,12 +93,11 @@ export default function Portfolio() {
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>Animated Web</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            This fully responsive page with animation was made using pure {" "}
+            <span className="languages">HTML </span> and        <span className="languages">CSS </span>  
           </p>
           <div className="buttons">
             <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
@@ -97,9 +112,8 @@ export default function Portfolio() {
         <h3>Local Storage Twitter</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+           Simulates the operation of Twitter with local storage. Made with{" "}
+            <span className="languages">HTML, CSS </span> and <span className="languages"> JS</span> 
           </p>
           <div className="buttons">
             <a href="https://github.com/matilf/LocalStorageTwitter" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
@@ -111,103 +125,100 @@ export default function Portfolio() {
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>JS WeatherAPP</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            This is a weather app made with {" "}
+            <span className="languages">HTML, Tailwind CSS </span>       and      <span className="languages">JS </span>
+           using OpenWeather API
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/WeatherApp" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://weather-app-sable-six.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>Budget Control</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            This is a budget controller made with{" "}
+            <span className="languages">HTML CSS </span> and   <span className="languages">JS </span>
+
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/ExpenseControl" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://expense-control.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>Vet Admin</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+          This is an appointment manager for a veterinarian made with {" "}
+            <span className="languages">HTML CSS</span> and             <span className="languages">JS</span>
+            
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/VetAdmin" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://vet-admin.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>Online Courses LocalStorage</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            Page to obtain online courses, with local storage. Made with{" "}
+            <span className="languages">HTML CSS</span> and             <span className="languages">JS</span> 
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CartLS" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://cart-ls-matilf.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>Cars Search</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+           A car search with different filtering options. Made with{" "}
+            <span className="languages">HTML CSS </span> and <span className="languages">JS </span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CarsSearch" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://cars-search.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
         </div>
         <div class="cardd">
-        <h3>Animated web css</h3>
+        <h3>Cars Insurance</h3>
           <p>
             {" "}
-            A react CRUD made with{" "}
-            <span className="languages">html css and React</span> dfbdfebdfabhb
-            dsf dg gdz zzcgf nzdzddfdg dd g d dz d
+            A car insurance generator according to the characteristics of the vehicle. Made with {" "}
+            <span className="languages">HTML CSS </span> and <span className="languages">JS </span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CarsInsurance" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://cars-insurance.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
