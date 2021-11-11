@@ -15,10 +15,10 @@ export default function Portfolio() {
             <span className="languages">HTML CSS</span> and <span className="languages"> React</span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/ToDoListReactLocalStorage" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/ToDoListReactLocalStorage" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://to-do-list-react-local-storage.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://to-do-list-react-local-storage.vercel.app/" target="_blank"   rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -31,10 +31,10 @@ export default function Portfolio() {
             <span className="languages">HTML CSS</span> and <span className="languages"> React</span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/CrudLocalStorage" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CrudLocalStorage" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://crud-local-storage-plrxuhplt-matilf.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://crud-local-storage-plrxuhplt-matilf.vercel.app/" target="_blank"  rel="noreferrer"className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -51,10 +51,10 @@ export default function Portfolio() {
            
           </p>
           <div className="buttons">
-            <a href="/" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="/" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://swagometer.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://swagometer.vercel.app/" target="_blank"   rel="noreferrer"className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -68,10 +68,10 @@ export default function Portfolio() {
            
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/ReactSongSearch" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/ReactSongSearch" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://react-song-search.vercel.app/#/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://react-song-search.vercel.app/#/" target="_blank"   rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -84,10 +84,10 @@ export default function Portfolio() {
             <span className="languages">HTML CSS </span> and <span className="languages"> React</span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/ReactShopCart" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/ReactShopCart" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://react-shop-cart.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://react-shop-cart.vercel.app/" target="_blank"  rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -100,10 +100,10 @@ export default function Portfolio() {
             <span className="languages">HTML </span> and        <span className="languages">CSS </span>  
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/MyFirstPushCss" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://my-first-push-css.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://my-first-push-css.vercel.app/" target="_blank"  rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -116,10 +116,10 @@ export default function Portfolio() {
             <span className="languages">HTML, CSS </span> and <span className="languages"> JS</span> 
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/LocalStorageTwitter" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/LocalStorageTwitter" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://local-storage-twitter.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://local-storage-twitter.vercel.app/" target="_blank"  rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -133,10 +133,10 @@ export default function Portfolio() {
            using OpenWeather API
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/WeatherApp" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/WeatherApp" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://weather-app-sable-six.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://weather-app-sable-six.vercel.app/" target="_blank"   rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -150,10 +150,10 @@ export default function Portfolio() {
 
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/ExpenseControl" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/ExpenseControl" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://expense-control.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://expense-control.vercel.app/" target="_blank"   rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -167,10 +167,10 @@ export default function Portfolio() {
             
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/VetAdmin" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/VetAdmin" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://vet-admin.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://vet-admin.vercel.app/" target="_blank"  rel="noreferrer"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -183,10 +183,10 @@ export default function Portfolio() {
             <span className="languages">HTML CSS</span> and             <span className="languages">JS</span> 
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/CartLS" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CartLS" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://cart-ls-matilf.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://cart-ls-matilf.vercel.app/" target="_blank"  rel="noreferrer"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -199,10 +199,10 @@ export default function Portfolio() {
             <span className="languages">HTML CSS </span> and <span className="languages">JS </span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/CarsSearch" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CarsSearch" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://cars-search.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://cars-search.vercel.app/" target="_blank"   rel="noreferrer" className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>
@@ -215,10 +215,10 @@ export default function Portfolio() {
             <span className="languages">HTML CSS </span> and <span className="languages">JS </span>
           </p>
           <div className="buttons">
-            <a href="https://github.com/matilf/CarsInsurance" target="_blank" className="bnportfolio1" style={{color: '$mainColor'}}>
+            <a href="https://github.com/matilf/CarsInsurance" target="_blank"  rel="noreferrer" className="bnportfolio1" style={{color: '$mainColor'}}>
               View on GitHub
             </a>
-            <a href="https://cars-insurance.vercel.app/" target="_blank"  className="bnportfolio2" style={{color: '$mainColor'}}>
+            <a href="https://cars-insurance.vercel.app/" target="_blank"  rel="noreferrer"  className="bnportfolio2" style={{color: '$mainColor'}}>
               View Project
             </a>
           </div>

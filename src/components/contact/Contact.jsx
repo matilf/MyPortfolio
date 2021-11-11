@@ -1,13 +1,8 @@
-import { useState } from "react";
+import React from "react";
 import "./contact.scss";
 
 export default function Contact() {
-  const [message, setMessage] = useState(false);
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    setMessage(true);
-  };
   return (
     <div className="contact" id="contact">
       <div className="left">
@@ -18,10 +13,11 @@ export default function Contact() {
         <p className="contactpar"> I am currently looking for a job as a front-end developer, so if you think we can talk about it feel free to send me a message on <a
                 href="https://www.linkedin.com/in/matias-lopez-ferrando/"
                 target="_blank"
-              >LinkedIn</a>,     <a href="https://github.com/matilf" target="_blank">
+                rel="noreferrer"
+              >LinkedIn</a>,     <a href="https://github.com/matilf" target="_blank"  rel="noreferrer">
               {" "}
               GitHub {" "}
-            </a>or  {" "} <a href="mailto:matiaslopezferrando@gmail.com" target="_blank" >E-mail</a>
+            </a>or  {" "} <a href="mailto:matiaslopezferrando@gmail.com" target="_blank"  rel="noreferrer" >E-mail</a>
         
         
         <br/> I am also open to taking freelance jobs, if you have a proposal do not hesitate to contact me.  </p>

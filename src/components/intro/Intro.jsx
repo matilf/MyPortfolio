@@ -1,13 +1,13 @@
 import "./intro.scss";
 
-import { useEffect, useRef } from "react";
+import React from "react";
 
 export default function Intro() {
   return( 
     <div className="intro" id="intro">
     <div className="left">
       <div className="imgContainer">
-      <img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Brown&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale'
+      <img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Brown&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale' alt=""
 />
        
       </div>
