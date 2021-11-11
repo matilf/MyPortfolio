@@ -11,7 +11,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           </a>
 
           <div className="itemContainer">
-            <a href="https://drive.google.com/file/d/1SIm63C_XkGG9JMdShTf0CcDwPyiKj3tZ/view?usp=sharing"  target="_blank"  rel="noreferrer" className="bn">
+            <a href="https://drive.google.com/file/d/1Qsut4Y5YV36RLalv-G8jIezH8fTJG0fE/view?usp=sharing"  target="_blank"  rel="noreferrer" className="bn">
               Download my resume
             </a>
             
