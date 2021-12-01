@@ -9,9 +9,9 @@ export default function About() {
             <h1>About Me</h1>
             <p>
               Hello! My name is Matias Lopez Ferrando, I am a React front-end
-              developer and software development student. My mother tongue is
+              developer. My mother tongue is
               Spanish, but I can also speak Portuguese and English{" "}
-              <a href="#about" target="_blank"  rel="noreferrer">
+              <a href="https://www.efset.org/cert/mXkccB" target="_blank"  rel="noreferrer">
                 {" "}
                 (Click here to see my EFSET Certificate).{" "}
               </a>

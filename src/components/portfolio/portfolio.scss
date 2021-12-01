@@ -46,15 +46,16 @@
     line-height: 25px;
   }
   .languages {
-    color: $mainColor;
+    color: crimson;
   }
 
 .cardd {
-  background-color: crimson;
-  color: white;
+  background-color: #ffffff;
+  color: $mainColor;
   padding: 1rem;
   height: 250px;
   border-radius: 10px;
+  border: 1px solid crimson
 }
 
 .cardss {
