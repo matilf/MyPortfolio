@@ -34,7 +34,7 @@ export default function About() {
               or by {" "}
                <a href="mailto:matiaslopezferrando@gmail.com" target="_blank"  rel="noreferrer">E-mail.</a>
             </p>
-            <h2>Tecnologies I have experience with</h2>
+            <h2>Tecnologies I have experience with.</h2>
 
             <div className="parent">
               <div class="div1 p">
