@@ -11,13 +11,13 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           </a>
 
           <div className="itemContainer">
-            <a href="https://drive.google.com/file/d/1gpJpiMRJ1d3sebDpppETrldVH7f-elh7/view?usp=sharing"  target="_blank"  rel="noreferrer" className="bn">
+            <a href="https://drive.google.com/file/d/13gY6H4DAChYc-nrjQdtSrUNiI9sFSpwo/view?usp=sharing"  target="_blank"  rel="noreferrer" className="bn">
               Download my resume
             </a>
             
             <a
               className="logito"
-              href="https://www.linkedin.com/in/matias-lopez-ferrando/"
+              href="https://www.linkedin.com/in/devMatiLF/"
               target="_blank"
               rel="noreferrer"
             >

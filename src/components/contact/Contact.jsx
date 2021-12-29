@@ -11,7 +11,7 @@ export default function Contact() {
       <div className="right">
         <h2>Contact me.</h2>
         <p className="contactpar"> I am currently looking for a job as a front-end developer, so if you think we can talk about it feel free to send me a message on <a
-                href="https://www.linkedin.com/in/matias-lopez-ferrando/"
+                href="https://www.linkedin.com/in/devMatiLF/"
                 target="_blank"
                 rel="noreferrer"
               >LinkedIn</a>,     <a href="https://github.com/matilf" target="_blank"  rel="noreferrer">

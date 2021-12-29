@@ -24,7 +24,7 @@ export default function About() {
               </a>
               Feel free to contact me via{" "}
               <a
-                href="https://www.linkedin.com/in/matias-lopez-ferrando/"
+                href="https://www.linkedin.com/in/devMatiLF/"
                 target="_blank"
                 rel="noreferrer"
                 
